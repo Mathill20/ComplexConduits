@@ -1,0 +1,20 @@
+[
+{
+  "modid": "CConduit",
+  "name": "Complex Conduits",
+  "description": "Conduits for moving power, liquids, and items in minecraft.",
+  "version": "@VERSION@",
+  "url": "http://www.minecraftforum.net/topic/1106178-",
+  "updateUrl": "",
+  "authorList": [
+    "Mathill20"
+  ],
+  "credits": "By Mathill20",
+  "logoFile": "/mods/CConduit/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
